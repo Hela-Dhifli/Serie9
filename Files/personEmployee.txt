@@ -1,0 +1,2 @@
+Person : firstName = Eric, lastName = Tabarly, age = 32
+Employe : firstName = Christophe, lastName = Auguin, age = 45, salaire = 12000

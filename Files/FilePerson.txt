@@ -1,0 +1,13 @@
+# Commentaires
+bean.name=p1
+p1.class=Exercice19.Person
+p1.lastName=Tabarly
+p1.firstName=Eric
+p1.age=28
+# autre personne
+bean.name=p2
+p2.class=Exercice19.Employee
+p2.lastName=Auguin
+p2.firstName=Christophe
+p2.age=58
+p2.salary=12000
